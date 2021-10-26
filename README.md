@@ -1,3 +1,3 @@
 # IT-projektas
 
-Ligoninės valdymo sistema su trimis naudotojų rolėmis
+Ligoninės valdymo sistema su trimis naudotojų rolėmis (MVC)
